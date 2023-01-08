@@ -1,0 +1,10 @@
+Cara menggunakan aplikasi kasir ini 
+1. masukan user name dan password
+ username: dafa
+password: 123
+ tekan tombol login
+2. jika ingin menggubah username dan password bisa dengan memilih menu pengaturan lalu ubah
+3. jika produk belum ada bisa menambahkannya dengan masuk kedalam menu produk kemudia pilih button tambah produk
+4. jika melakukan transaksi kemudian masukan kode produk dan kuantitas(qty). Kemudian klik simpan. Button reset digunakan apabila terjadi kesalahan dalam memasukan produk. Setelah itu masukan nominal yang dibayar oleh konsumen. Jika sudah klik button simpan dan program akan otomatis menghitung kembalian
+5. Jika ingin mencetak struk maka klik button cetak kemudian akan tampil struk pembayaran bisa terlihat dan bisa diprint
+6. Dalam menu laporan terdapat transaksi yang dilakukan oleh kasir
